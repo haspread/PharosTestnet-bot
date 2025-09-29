@@ -19,16 +19,16 @@
 
 # Installation+Run🕸
 ```shell
-git clone https://github.com/ox1nec/Pharos-Testnet-Bot
-cd Pharos-Testnet-Bot
+git clone https://github.com/haspread/PharosTestnet-Bot
+cd PharosTestnet-Bot
 run.bat
 ```
 
 **OR**
 
 ```shell
-git clone https://github.com/ox1nec/Pharos-Testnet-Bot
-cd Pharos-Testnet-Bot
+git clone https://github.com/haspread/PharosTestnet-Bot
+cd PharosTestnet-Bot
 pip install -r requirements.txt
 python bot.py
 ```
